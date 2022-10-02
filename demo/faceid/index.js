@@ -1,9 +1,3 @@
-/*
-  Human
-  homepage: <https://github.com/vladmandic/human>
-  author: <https://github.com/vladmandic>'
-*/
-
 
 // demo/faceid/index.ts
 import * as H from "../../dist/human.esm.js";
