@@ -10,7 +10,7 @@ H.env.Image = Image; // requires monkey-patch as wasm does not have tf.browser n
 
 const config = {
   cacheSensitivity: 0,
-  modelBasePath: 'https://JeherillaJanwar.github.io/human/models/',
+  modelBasePath: 'https://vladmandic.github.io/human-models/models/',
   backend: 'wasm',
   // wasmPath: 'node_modules/@tensorflow/tfjs-backend-wasm/dist/',
   wasmPath: `https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-backend-wasm@${tf.version_core}/dist/`,
