@@ -30,7 +30,7 @@ const config = {
   hand: { enabled: true, rotation: false },
   body: { enabled: true },
   object: { enabled: true },
-  segmentation: { enabled: true },
+  segmentation: { enabled: false },
   filter: { enabled: false },
 };
 
