@@ -63,7 +63,9 @@
     "age-gender",
     "tensorflowjs",
     "tfjs",
-    "tensorflow"
+    "tensorflow",
+    "face-mesh",
+    "body-track"
   ],
   "devDependencies": {
     "@html-eslint/eslint-plugin": "^0.15.0",
